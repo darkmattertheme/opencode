@@ -1,4 +1,13 @@
-# Darkmatter for OpenCode
+<h3 align="center">
+	<img src="assets/logo.svg" width="100" alt="Logo"/><br/>
+	<img src="assets/transparent.svg" height="30" width="0px"/>
+	Darkmatter for OpenCode
+	<img src="assets/transparent.svg" height="30" width="0px"/>
+</h3>
+
+<p align="center">
+	<img src="assets/preview.webp" alt="Darkmatter for OpenCode"/>
+</p>
 
 A theme for [OpenCode](https://opencode.ai), the terminal coding agent,
 adapted from base16-black-metal-bathory.
